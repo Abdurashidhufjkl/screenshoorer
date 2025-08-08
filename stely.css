@@ -133,6 +133,7 @@ a {
   border: 1px solid rgba(255, 255, 255, 0.15);
   backdrop-filter: blur(20px);
   border-radius: 10px;
+  margin: auto;
 }
 
 .card_text {
@@ -304,11 +305,13 @@ a {
   position: relative;
   width: 100%;
   margin-top: 250px;
+  margin: auto;
 }
 
 .screen_recorder_container {
   display: flex;
   align-items: center;
+  margin: auto;
 }
 
 .screen_recorder_circle_img {
@@ -316,6 +319,7 @@ a {
   top: -115px;
   width: 130px;
   z-index: 2;
+  margin: auto;
 }
 
 .decorativeLine2 {
@@ -323,6 +327,7 @@ a {
   top: -240px;
   z-index: 1;
   width: 100%;
+  margin: auto;
 }
 
 .screen_recorder_bcg {
@@ -336,10 +341,12 @@ a {
   position: relative;
   top: 40px;
   z-index: 4;
+  margin: auto;
 }
 
 .screen_recorder_right {
   margin-left: 50px;
+  margin: auto;
 }
 
 .screen_recorder_right h3 {
@@ -348,7 +355,7 @@ a {
   font-weight: 700;
   font-size: 34px;
   line-height: 43px;
-
+  margin: auto;
   color: #131313;
 }
 
